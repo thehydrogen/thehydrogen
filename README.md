@@ -1,15 +1,4 @@
-## Hi there 👋
-Hello, I'm **Hydrogen**. I'm a software developer of over 4 years who works on all sorts of things.
+## Hello👋
+Hello, I'm known online **Hydrogen**. I'm a software developer of over 5 years who works on all sorts of things.
 
-### Language Experience
-- JavaScript
-- HTML
-- CSS
-- Java
-- Python
-- Vue
-- Svelte
-- C++ (still learning!)
-
-### Contact
-If you need to contact me, simply message me on Discord; I'm `Hydrogen#0001`.
+More information regarding what I do & where you can reach me is available on [my website](https://thehydrogen.xyz).
